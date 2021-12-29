@@ -5,9 +5,9 @@
   languagedir = "ltr"
   contentdir = "content/en"
 
-[zh]
-  title = "Clusternet"
-  languageName = "简体中文"
-  weight = 2
-  languagedir = "ltr"
-  contentdir = "content/zh"
+# [zh]
+#   title = "Clusternet"
+#   languageName = "中文"
+#   weight = 2
+#   languagedir = "ltr"
+#   contentdir = "content/zh"

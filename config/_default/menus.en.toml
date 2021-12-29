@@ -1,17 +1,17 @@
 [[main]]
-  identifier = "Zzo"
-  name = "Zzo theme"
-  url = "zzo/changelog"
+  identifier = "Docs"
+  name = "Documentation"
+  url = "docs"
   weight = 1
 
 [[main]]
-  identifier = "Zdoc"
-  name = "Zdoc theme"
-  url = "zdoc"
+  identifier = "Releases"
+  name = "Releases"
+  url = "releases"
   weight = 2
 
-[[main]]
-  identifier = "Blog"
-  name = "Blog"
-  url = "blog"
-  weight = 3
+# [[main]]
+#   identifier = "Blog"
+#   name = "Blog"
+#   url = "blog"
+#   weight = 3

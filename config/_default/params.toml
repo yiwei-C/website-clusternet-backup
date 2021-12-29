@@ -1,9 +1,9 @@
 logo = true
-logoText = "Z Themes"
-logoType = "short" # long, short
-description = "Clusternet documentation site."
-editBaseURL = "https://github.com/clusternet/website/blob/master/content/en"
-themeOptions = ["light", "dark"]
+logoText = "Clusternet"
+logoType = "short" # long, short -> short: squre shape includes logo text, long: rectangle shape not includes logo text
+description = "The Clusternet project documentation site." # for SEO
+editBaseURL = "https://github.com/cluster/website"
+themeOptions = ["light", "dark"] # select options for site color theme
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
@@ -23,15 +23,12 @@ enableToc = true
 enableMenu = true
 enableNavbar = true
 enableFooter = true
-showPoweredBy = true
+showPoweredBy = false
 
 paginateWindow = 1
 taxoPaginate = 13
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zzo"
+github = "https://github.com/clusternet/clusternet"
 
 enableComment = false
-# [utterances]       # https://utteranc.es/
-#   owner = "zzossig"              # Your GitHub ID
-#   repo = "zzoDocs"               # The repo to store comments
