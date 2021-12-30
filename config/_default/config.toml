@@ -1,4 +1,5 @@
-baseURL = "https://clusternet.io" # The URL of your site. # TODO
+# baseURL = "https://clusternet.io" # The URL of your site. # TODO
+baseURL = "https://clusternet.netlify.app" # The URL of your site. # TODO
 title = "Clusternet Homepage" # Title of your site
 theme = "zdoc" # Name of Zzo theme folder in `themes/`.
 
