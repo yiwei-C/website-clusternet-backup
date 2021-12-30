@@ -16,7 +16,9 @@ Out of the Box.
 
 ----
 
-<div align="center"><img src="./docs/images/clusternet-in-a-nutshell.png" style="width:900px;" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/clusternet/clusternet/main/docs/images/clusternet-in-a-nutshell.png" style="width:900px;" /></div>
+
+
 
 Clusternet (**Cluster** Inter**net**) is an open source ***add-on*** that helps you manage thousands of millions of
 Kubernetes clusters as easily as visiting the Internet. No matter the clusters are running on public cloud, private
@@ -37,7 +39,7 @@ Clusternet is multiple platforms supported now, including `linux/amd64`, `linux/
 
 ## Architecture
 
-<div align="center"><img src="./docs/images/clusternet-arch.png" style="width:600px;" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/clusternet/clusternet/main/docs/images/clusternet-arch.png" style="width:600px;" /></div>
 
 Clusternet is a lightweight addon that consists of three components, `clusternet-agent`, `clusternet-scheduler`
 and `clusternet-hub`.
@@ -90,7 +92,7 @@ are registerring to, we call it **parent cluster**.
 - `Base` objects will be rendered to `Description` objects with `Globalization` and `Localization` settings applied.
   `Description` is the final resources to be deployed into target child clusters.
 
-<div align="center"><img src="./docs/images/clusternet-apps-concepts.png" style="width:900px;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/clusternet/clusternet/main/docs/images/clusternet-apps-concepts.png" style="width:900px;"/></div>
 
 ## Kubernetes Version Skew
 
