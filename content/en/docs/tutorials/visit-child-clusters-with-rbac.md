@@ -79,8 +79,7 @@ $ curl -k -XGET  -H "Accept: application/json" \
 
 ### An Easy Way - kubectl-clusternet Plugin (Recommended)
 
-First,
-please [install/upgrade `kubectl-clusternet` plugin](docs/kubectl-clusternet/#installation) with
+First, please [install/upgrade `kubectl-clusternet` plugin](docs/kubectl-clusternet/#installation) with
 a minimum required version `v0.5.0`.
 
 ```bash
