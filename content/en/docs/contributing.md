@@ -1,0 +1,19 @@
+---
+title: "Contributing"
+description: "test post"
+date: 2020-01-28T00:38:48+09:00
+draft: false
+weight: 6
+---
+
+# Contributing Guidelines
+
+Welcome to Clusternet!
+
+First off, thanks for taking the time to contribute!
+
+The following is a set of guidelines for contributing to Clusternet. These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
+## Code of Conduct
+
+Clusternet follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).

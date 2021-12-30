@@ -24,8 +24,8 @@ landing:
       logo: logo/Clusternet_blue_horizontal.png
   backgroundImage:
     # src: https://cdn.pixabay.com/photo/2012/01/09/09/59/earth-11595_960_720.jpg
-    # src: https://cdn.pixabay.com/photo/2018/12/10/10/21/earth-3866609_960_720.jpg
-    src: https://cdn.pixabay.com/photo/2018/04/28/16/40/network-3357642_960_720.jpg
+    src: https://cdn.pixabay.com/photo/2018/12/10/10/21/earth-3866609_960_720.jpg
+    # src: https://cdn.pixabay.com/photo/2018/04/28/16/40/network-3357642_960_720.jpg
     height: 600
     ## To support background color,       <div style="background-color: #FF0000; background-position: center; background-repeat: no-repeat; background-size: cover; position: absolute; top: -50px; left: 0; width: 100%; height: {{ .height }}px;"></div>
 

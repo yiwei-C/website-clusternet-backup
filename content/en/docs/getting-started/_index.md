@@ -1,9 +1,8 @@
 ---
 title: "Getting Started"
-description: "test post index"
+description: "Getting Started to use Clusternet"
 date: 2020-01-28T00:34:39+09:00
 draft: false
-weight: 1
+weight: 2
 collapsible: true
 ---
-
