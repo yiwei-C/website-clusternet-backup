@@ -11,20 +11,21 @@ landing:
     - Clusternet
   text:
     - Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet ⎈
-  titleColor:
+  titleColor: "#096fff"
   textColor:
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
       text: Learn More
       color: primary
+      icon: images/section/document-white.png
     - link: https://github.com/clusternet/clusternet
       text: Download
       color: default
-      logo: logo/Clusternet_blue_horizontal.png
+      icon: images/section/GitHub.png
   backgroundImage:
     # src: https://cdn.pixabay.com/photo/2012/01/09/09/59/earth-11595_960_720.jpg
-    src: https://cdn.pixabay.com/photo/2018/12/10/10/21/earth-3866609_960_720.jpg
+    <!-- src: https://cdn.pixabay.com/photo/2018/12/10/10/21/earth-3866609_960_720.jpg -->
     # src: https://cdn.pixabay.com/photo/2018/04/28/16/40/network-3357642_960_720.jpg
     height: 600
     ## To support background color,       <div style="background-color: #FF0000; background-position: center; background-repeat: no-repeat; background-size: cover; position: absolute; top: -50px; left: 0; width: 100%; height: {{ .height }}px;"></div>
@@ -34,11 +35,11 @@ footer:
     - title: General
       links:
         - title: Docs
-          link: https://gohugo.io/
+          link: /docs/
         - title: Releases
-          link: https://gohugo.io/
-        - title: Blog
-          link: https://gohugo.io/
+          link: /releases/
+        # - title: Blog
+        #  link: https://gohugo.io/
     - title: Resources
       links:
         - title: GitHub
@@ -76,37 +77,37 @@ sections:
     rows:
       - description: row 1
         cards:
+          - subtitle: Multi-cluster Management
+            subtitlePosition: center
+            description: "Manages multiple Kubernetes clusters from a single management cluster."
+            image: images/section/clusters.png
+            color: white
           - subtitle: Kubernetes Native
             subtitlePosition: center
-            description: "Out-of-the-box Kubernetes add-on to empower multi-cluster management and application orchestration."
-            image: images/section/keyboard.png
+            description: "Out-of-the-box add-on to empower standard Kubernetes clusters"
+            image: images/section/kubernetes.png
             color: white
-          - subtitle: Application Management
+          - subtitle: For all Cloud Categories
             subtitlePosition: center
-            description: "Two-tier application configuration to define generic and cluster-specific overrides. Priority setting is also offered for dynamic override chains."
-            image: images/section/processor.png
-            color: white
-          - subtitle: Catered for all cloud categories
-            subtitlePosition: center
-            description: "Manages Kubernetes clusters across public, private, hybrid, and edge clouds from a single management cluster."
-            image: images/section/root-server.png
+            description: "Manages Kubernetes clusters across public, private, hybrid, and edge clouds."
+            image: images/section/cloud.png
             color: white
       - description: row 2
         cards:
+          - subtitle: Application Management
+            subtitlePosition: center
+            description: "Two-tier application configuration for cluster-specific overrides."
+            image: images/section/application-management.png
+            color: white
           - subtitle: RBAC Support
             subtitlePosition: center
             description: "Support accessing all managed clusters with RBAC."
-            image: images/section/root-server.png
+            image: images/section/lock.png
             color: white
           - subtitle: CLI Support
             subtitlePosition: center
-            description: "Control using plugin installable via [Krew](https://github.com/kubernetes-sigs/krew)"
-            image: images/section/root-server.png
-            color: white
-          - subtitle: Placeholder
-            subtitlePosition: center
-            description: "Placeholder"
-            image: images/section/root-server.png
+            description: "Control using plugin installable via Krew."
+            image: images/section/cli.png
             color: white
 
   - bgcolor: DarkSlateBlue
@@ -124,18 +125,18 @@ sections:
           - subtitle: Join community forum
             subtitlePosition: center
             description: "Follow [Clusternet Google Group](https://groups.google.com/g/clusternet) for announcements and technical Discussions."
-            image: images/section/keyboard.png
+            image: images/section/groups.png
             color: white
           - subtitle: Contributing
             subtitlePosition: center
             description: "Create a [Pull Request](https://github.com/clusternet/clusternet/pulls) on GitHub to get started.
 New users are always welcome!"
-            image: images/section/processor.png
+            image: images/section/GitHub.png
             color: white
           - subtitle: Reporting Issues
             subtitlePosition: center
             description: "If you encounter any issues, feel free to open an [issue](https://github.com/clusternet/clusternet/issues/new/choose)."
-            image: images/section/processor.png
+            image: images/section/chat.png
             color: white
 
           # - subtitle: Join us on Slack

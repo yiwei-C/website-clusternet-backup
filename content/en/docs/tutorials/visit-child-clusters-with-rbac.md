@@ -20,8 +20,7 @@ collapsible: false
 
 :thumbsup: ***Clusternet supports visiting all your managed clusters with RBAC directly from parent cluster.***
 
-Here we assume the `kube-apiserver` running in parent cluster allows **anonymous requests**. That is
-flag `--anonymous-auth` (default to be `true`) is not set to `false` explicitly.
+Here we assume the `kube-apiserver` running in parent cluster allows **anonymous requests**. That is flag `--anonymous-auth` (default to be `true`) is not set to `false` explicitly.
 
 If not, an extra token from parent cluster is required.
 
