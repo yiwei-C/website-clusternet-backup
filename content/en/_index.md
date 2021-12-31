@@ -112,7 +112,7 @@ sections:
 
   - bgcolor: DarkSlateBlue
     type: card
-    description: "placeholder"
+    # description: ""
     header:
       title: Join Us
       hlcolor: DarkKhaki
