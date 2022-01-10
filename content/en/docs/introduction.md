@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: "Clusternet introduction"
+description: "Clusternet introduction."
 date: 2020-01-28T00:39:09+09:00
 draft: false
 weight: 1

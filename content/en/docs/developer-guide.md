@@ -1,6 +1,6 @@
 ---
 title: "Developer Guide"
-description: "How to start developing Clusternet"
+description: "Getting started to develop Clusternet."
 date: 2020-01-28T00:38:59+09:00
 draft: false
 weight: 7
