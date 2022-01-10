@@ -3,7 +3,7 @@
     {{ if .IsHome }}
       {{ partial "svgs/menu.svg" (dict "width" 25 "height" 25) }}
     {{ else }}
-      {{ .Type }}
+      {{ partial "svgs/menu.svg" (dict "width" 25 "height" 25) }}
     {{ end }}
   </button>
   {{ partial "navbar/menu/navbar-menu-collapse.html" . }}
