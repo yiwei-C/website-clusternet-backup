@@ -6,7 +6,7 @@ draft: false
 
 landing:
   height: 500
-  image: logo/Clusternet_blue_horizontal.png
+  image: logo.png
   title:
     - Clusternet
   text:
