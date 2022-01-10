@@ -8,7 +8,7 @@
     <div class="home__landing" style="height: {{ .height }}px;">
       {{ if .image }}
         <div class="home__landing--img">
-          <img src="{{ .image | relURL }}" alt="Site Landing Page image">
+          <img src="{{ .image | relURL }}" alt="Site Landing Page image" height="400px" width="400px">
         </div>
         <div class="home__landing--txt">
           {{ if .title }}

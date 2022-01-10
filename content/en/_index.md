@@ -5,7 +5,7 @@ date: 2020-01-26T04:15:05+09:00
 draft: false
 
 landing:
-  height: 500
+  height: 400
   image: logo.png
   title:
     - Clusternet
