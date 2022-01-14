@@ -18,11 +18,11 @@ landing:
     - link: docs
       text: Learn More
       color: primary
-      icon: images/section/document-white.png
+      icon: icons/document-white.png
     - link: https://github.com/clusternet/clusternet
       text: Download
       color: default
-      icon: images/section/GitHub.png
+      icon: icons/GitHub.png
   backgroundImage:
     # src: https://cdn.pixabay.com/photo/2012/01/09/09/59/earth-11595_960_720.jpg
     <!-- src: https://cdn.pixabay.com/photo/2018/12/10/10/21/earth-3866609_960_720.jpg -->
@@ -80,34 +80,34 @@ sections:
           - subtitle: Multi-cluster Management
             subtitlePosition: center
             description: "Manages multiple Kubernetes clusters from a single management cluster."
-            image: images/section/clusters.png
+            image: icons/clusters.png
             color: white
           - subtitle: Kubernetes Native
             subtitlePosition: center
             description: "Out-of-the-box add-on to empower standard Kubernetes clusters"
-            image: images/section/kubernetes.png
+            image: icons/kubernetes.png
             color: white
           - subtitle: For all Cloud Categories
             subtitlePosition: center
             description: "Manages Kubernetes clusters across public, private, hybrid, and edge clouds."
-            image: images/section/cloud.png
+            image: icons/cloud.png
             color: white
       - description: row 2
         cards:
           - subtitle: Application Management
             subtitlePosition: center
             description: "Two-tier application configuration for cluster-specific overrides."
-            image: images/section/application-management.png
+            image: icons/application-management.png
             color: white
           - subtitle: RBAC Support
             subtitlePosition: center
             description: "Support accessing all managed clusters with RBAC."
-            image: images/section/lock.png
+            image: icons/lock.png
             color: white
           - subtitle: CLI Support
             subtitlePosition: center
             description: "Control using plugin installable via Krew."
-            image: images/section/cli.png
+            image: icons/cli.png
             color: white
 
   - bgcolor: DarkSlateBlue
@@ -125,24 +125,24 @@ sections:
           - subtitle: Join community forum
             subtitlePosition: center
             description: "Follow [Clusternet Google Group](https://groups.google.com/g/clusternet) for announcements and technical Discussions."
-            image: images/section/groups.png
+            image: icons/groups.png
             color: white
           - subtitle: Contributing
             subtitlePosition: center
             description: "Create a [Pull Request](https://github.com/clusternet/clusternet/pulls) on GitHub to get started.
 New users are always welcome!"
-            image: images/section/GitHub.png
+            image: icons/GitHub.png
             color: white
           - subtitle: Reporting Issues
             subtitlePosition: center
             description: "If you encounter any issues, feel free to open an [issue](https://github.com/clusternet/clusternet/issues/new/choose)."
-            image: images/section/chat.png
+            image: icons/chat.png
             color: white
 
           # - subtitle: Join us on Slack
           #   subtitlePosition: center
           #   description: "Join [Clusternet Slack]() for live conversation and quick questions."
-          #   image: images/section/root-server.png
+          #   image: icons/root-server.png
           #   color: white
 
 ---
