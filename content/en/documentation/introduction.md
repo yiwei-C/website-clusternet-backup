@@ -12,8 +12,6 @@ weight: 1
 
 Managing Your Clusters (including public, private, hybrid, edge, etc) as easily as Visiting the Internet.
 
-Out of the Box.
-
 ----
 
 <div align="center"><img src="https://raw.githubusercontent.com/clusternet/clusternet/main/docs/images/clusternet-in-a-nutshell.png" style="width:900px;" /></div>

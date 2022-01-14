@@ -1,7 +1,7 @@
 [[main]]
   identifier = "Docs"
   name = "Documentation"
-  url = "docs"
+  url = "documentation"
   weight = 1
 
 [[main]]
