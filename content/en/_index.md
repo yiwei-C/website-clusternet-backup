@@ -116,7 +116,7 @@ sections:
     rows:
       - description: row 1
         cards:
-          - subtitle: Community forum
+          - subtitle: Community Forum
             subtitlePosition: center
             description: "Follow our [Google Group](https://groups.google.com/g/clusternet) for announcements and technical Discussions."
             image: icons/groups.png
