@@ -34,8 +34,8 @@ footer:
   sections:
     - title: General
       links:
-        - title: Docs
-          link: /docs/
+        - title: Documentation
+          link: /documentation/
         - title: Releases
           link: /releases/
         # - title: Blog
@@ -65,15 +65,15 @@ footer:
       Copyright 2021 The Clusternet Authors & ©THL A29 Limited, a Tencent company. All Rights Reserved. [LICENSE](https://github.com/clusternet/clusternet/blob/main/LICENSE)
 
 sections:
-  - bgcolor: teal
+  - bgcolor: "#148D8D"
     type: card
     description: "An open-source project that helps users manage multiple Kubernetes clusters as easily as 'visiting the Internet' (thus the name 'Clusternet'). It is a general-purpose system for controlling Kubernetes clusters across different environments as if they were running locally."
     header:
       title: What is Clusternet
-      hlcolor: "#8bc34a"
+      hlcolor: "#EFBC75"
       color: '#fff'
       fontSize: 32
-      width: 320
+      width: 360
     rows:
       - description: row 1
         cards:
@@ -96,7 +96,7 @@ sections:
         cards:
           - subtitle: Application Management
             subtitlePosition: center
-            description: "Two-tier application configuration for cluster-specific overrides."
+            description: "Two-tier application configuration for cluster-specific values."
             image: icons/application-management.png
             color: white
           - subtitle: RBAC Support
@@ -106,25 +106,25 @@ sections:
             color: white
           - subtitle: CLI Support
             subtitlePosition: center
-            description: "Control using plugin installable via Krew."
+            description: "Command line interface installable via Krew."
             image: icons/cli.png
             color: white
 
-  - bgcolor: DarkSlateBlue
+  - bgcolor: "#1A4A5A"
     type: card
     # description: ""
     header:
       title: Join Us
-      hlcolor: DarkKhaki
+      hlcolor: "#C1E1A7"
       color: "#fff"
       fontSize: 32
-      width: 130
+      width: 170
     rows:
       - description: row 1
         cards:
-          - subtitle: Join community forum
+          - subtitle: Community forum
             subtitlePosition: center
-            description: "Follow [Clusternet Google Group](https://groups.google.com/g/clusternet) for announcements and technical Discussions."
+            description: "Follow our [Google Group](https://groups.google.com/g/clusternet) for announcements and technical Discussions."
             image: icons/groups.png
             color: white
           - subtitle: Contributing
