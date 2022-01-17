@@ -1,7 +1,7 @@
 ---
 title: "Install via Helm"
 description: "How to install Clusternet via Helm"
-date: 2020-01-28T00:34:39+09:00
+date: 2022-01-17
 draft: false
 weight: 2
 collapsible: false

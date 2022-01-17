@@ -1,7 +1,7 @@
 ---
 title: "Visiting Cluster with RBAC"
 description: "Visiting Managed Clusters With RBAC"
-date: 2020-01-28T00:34:39+09:00
+date: 2022-01-17
 draft: false
 weight: 1
 collapsible: false

@@ -1,7 +1,7 @@
 ---
 title: "Releases"
 description: "Clusternet Releases"
-date: 2020-01-28T00:08:29+09:00
+date: 2022-01-17
 draft: false
 ---
 

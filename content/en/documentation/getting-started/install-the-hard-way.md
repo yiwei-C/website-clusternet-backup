@@ -1,7 +1,7 @@
 ---
 title: "Install Manually"
 description: "How to install Clusternet manually the hard way"
-date: 2020-01-28T00:34:39+09:00
+date: 2022-01-17
 draft: false
 weight: 3
 collapsible: false

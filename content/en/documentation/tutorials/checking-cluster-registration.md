@@ -1,7 +1,7 @@
 ---
 title: "Checking Cluster Registration"
 description: "Checking managed cluster registration status"
-date: 2020-01-28T00:34:39+09:00
+date: 2022-01-17
 draft: false
 weight: 3
 collapsible: false

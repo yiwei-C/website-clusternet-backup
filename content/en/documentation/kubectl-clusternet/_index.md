@@ -1,6 +1,6 @@
 ---
 title: "kubectl-clusternet"
-date: 2020-02-28T10:08:56+09:00
+date: 2022-01-17
 description: A 'kubectl' plugin for interacting with Clusternet.
 draft: false
 weight: 5
